@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lore-tea-and-coffee-production.up.railway.app/sitemap.xml
